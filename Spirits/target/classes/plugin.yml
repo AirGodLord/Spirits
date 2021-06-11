@@ -1,0 +1,7 @@
+name: Spirits
+version: 1.0
+api-version: 1.16
+main: me.zeph.spirits.Spirits
+depend: [ProjectKorra]
+authors: [Zeph]
+description: Enables your players to be Spirits
